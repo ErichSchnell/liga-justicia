@@ -7,3 +7,4 @@
 * Linterna Verde
 * Volcán Negro
 * Agrego a uno
+* Volcan Rojo
